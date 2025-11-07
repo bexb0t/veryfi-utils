@@ -2,7 +2,7 @@
 package-mode = false    
 
 [project]
-name = "veryfi"
+name = "veryfi-utils"
 version = "0.1.0"
 description = ""
 authors = [
